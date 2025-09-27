@@ -1,6 +1,6 @@
 # CougSat-1 Software #
 # Project Description #
-CougSat-1, WSU’s first satellite, developed a robust mission support system for nanosatellites, covering ADCS, EPS, IHU, RCS, and structural subsystems. A secondary objective tested plant germination in microgravity, laying groundwork for future agricultural research in space.
+CougSat-1, Wasginton State University’s first satellite, developed a robust mission support system for nanosatellites, covering ADCS, EPS, IHU, RCS, and structural subsystems. A secondary objective tested plant germination in microgravity, laying groundwork for future agricultural research in space.
 
 
 #### File Structure ####
