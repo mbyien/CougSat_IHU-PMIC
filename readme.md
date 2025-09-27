@@ -2,6 +2,8 @@
 # Project Description #
 CougSat-1, Wasginton State University’s first satellite, developed a robust mission support system for nanosatellites, covering ADCS, EPS, IHU, RCS, and structural subsystems. A secondary objective tested plant germination in microgravity, laying groundwork for future agricultural research in space.
 
+This repository specifically covers the work I did on the IHU. I helped develop the camera drivers and worked on the CO2 and temperature sensor for the payload system.
+
 
 #### File Structure ####
 Each processor (usually each subsystem) has a folder that contains its software. It may reference common drivers or components in the CISLibrary folder.
