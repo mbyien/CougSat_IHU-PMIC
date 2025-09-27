@@ -1,5 +1,11 @@
 # CougSat-1 Software #
+# Project Description #
+CougSat-1, WSU’s first satellite, developed a robust mission support system for nanosatellites, covering ADCS, EPS, IHU, RCS, and structural subsystems. A secondary objective tested plant germination in microgravity, laying groundwork for future agricultural research in space.
+
+
+## File Structure ##
 Each processor (usually each subsystem) has a folder that contains its software. It may reference common drivers or components in the CISLibrary folder.
+
 
 ## Setup for STM32 ##
 * Install [VSCode](https://code.visualstudio.com/) (able to do any IDE but this is recommended).
